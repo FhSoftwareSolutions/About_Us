@@ -57,7 +57,7 @@ Após uma aula, nosso grupo se reuniu para discutir oportunidades de projetos em
 **Apaixonado por League of Legends e sempre em busca de aprendizado.**
 
 <a href="https://github.com/jonhvinnykkj"><img src="https://github.com/jonhvinnykkj.png" width="80" height="80" alt="Jonh Vinny" style="border-radius:50%; margin:0 10px;"/></a>  
-**João Vinniciús** – Analytics, Python, Power BI. 
+**João Vinnycius** – Analytics, Python, Power BI. 
 **Apaixonado por tecnologia, cristão, tímido e colecionador de momentos.**
 
 
