@@ -52,7 +52,7 @@ Após uma aula, nosso grupo se reuniu para discutir oportunidades de projetos em
 **Mateus Robers** – Backend, TypeScript, Next.js. 
 **Cristão, amante de música e de todos os bichinhos!**
 
-<a href="https://github.com/PinguimSurfante"><img src="https://github.com/PinguimSurfante.png" width="80" height="80" alt="PinguimSurfante" style="border-radius:50%; margin:0 10px;"/></a>  
+<a href="https://github.com/Gustavo-Hono"><img src="https://github.com/Gustavo-Hono.png" width="80" height="80" alt="China" style="border-radius:50%; margin:0 10px;"/></a>  
 **Gustavo Hono** – Frontend, TypeScript, Angular. 
 **Apaixonado por League of Legends e sempre em busca de aprendizado.**
 
