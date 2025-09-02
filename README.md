@@ -53,7 +53,7 @@ Após uma aula, nosso grupo se reuniu para discutir oportunidades de projetos em
 **Cristão, amante de música e de todos os bichinhos!**
 
 <a href="https://github.com/Gustavo-Hono"><img src="https://github.com/Gustavo-Hono.png" width="80" height="80" alt="China" style="border-radius:50%; margin:0 10px;"/></a>  
-**Gustavo Hono** – Frontend, TypeScript, Angular. 
+**Gustavo Hono** – FullStack, TypeScript, React, Node js, Postgresql . 
 **Apaixonado por League of Legends e sempre em busca de aprendizado.**
 
 <a href="https://github.com/jonhvinnykkj"><img src="https://github.com/jonhvinnykkj.png" width="80" height="80" alt="Jonh Vinny" style="border-radius:50%; margin:0 10px;"/></a>  
