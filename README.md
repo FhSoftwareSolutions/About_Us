@@ -65,8 +65,8 @@ Após uma aula, nosso grupo se reuniu para discutir oportunidades de projetos em
 
 ## No que Estamos Trabalhando
 
-- **Projetos Atuais**: [Repositório Atual](https://github.com/FhSoftwareSolutions/linked_gauge.git)  
-- **Projetos Anteriores**: [Repositório Antigo](https://github.com/our-org/old-repo)
+- **Projetos Atuais**: [Repositório Atual](https://github.com/FhSoftwareSolutions/projeto-pluview.git)  
+- **Projetos Anteriores**: [Repositório Antigo](https://github.com/FhSoftwareSolutions/linked_gauge.git)
 
 ---
 
